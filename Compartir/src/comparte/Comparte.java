@@ -7,6 +7,7 @@ public class Comparte {
 		System.out.print("Holaa!!!");
 		System.out.print("Holaa!!!");
 		System.out.print("Holaa!!!");
+		System.out.print("Holaa!!!");
 
 	}
 
